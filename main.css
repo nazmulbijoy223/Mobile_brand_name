@@ -1,0 +1,254 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-area{
+    width: 100%;
+    height: 345px;
+}
+
+.logo{
+    width: 80%;
+    height: 100px;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.logoimg{
+    width: 290px;
+    height: 49px;
+    margin-top: 30px;
+     
+}
+
+.search{
+    width: 90%;
+    height:110px ;
+    margin: 0 auto;
+    display: flex;
+}
+.srcbox{
+    width: 1050px;
+    height: 55px;
+    border: 1px solid #978b8b;
+    margin-top: 28px;
+    margin-left: 35px;
+}
+
+.scicon{
+    width: 80px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 15px;
+    color: #fff;
+    padding-bottom: 0px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+
+.bp{
+    width: 100%;
+    height: 100px;
+
+}
+hr{
+    color: rgb(109, 102, 102);
+}
+.brand{
+    width: 65%;
+    height: 50px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.brand ul li,.price ul li{
+    list-style-type:none ;
+    display: inline-block;
+}
+.brand ul li a{
+    text-decoration: none;
+    color: #1087DB;
+    font-size: 13px;  
+}
+.price{
+    width: 55%;
+    height: 50px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.price ul{
+    margin-left: -25px;
+}
+.price ul li a{
+    text-decoration: none;
+    color: #1087DB;
+    font-size: 12.5px; 
+}
+
+
+
+
+.brand-box-area{
+    width: 85%;
+    height: 3900px;
+    border: 1px solid rgb(230, 224, 224);
+    margin:0 auto ;
+    margin-bottom: 385px;
+}
+
+.head{
+    width: 100%;
+    height: 3%;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 150px;
+}
+.head i{
+    font-size: 15px; 
+    color: rgb(184, 181, 181);
+}
+.head i:hover{
+    color: #1087DB;
+}
+.head a{
+    text-decoration: none;
+    color: rgb(184, 181, 181);
+    font-size: 13px;
+}
+.head a:hover{
+    text-decoration: underline;
+    color: #1087DB;
+}
+.head p{
+    display: inline;
+    color: rgb(184, 181, 181);
+    font-size: 13px;
+}
+.head h1{
+    font-size: 44px;
+}
+.somep{
+    font-size: 14.5px;
+    text-align: center;
+}
+.babox{
+    font-size: 30px;
+    text-align: center;
+}
+
+.box{
+    width: 31%;
+    margin: 0 auto;
+    display: flex;
+    border: #E5E5E5 1px solid;
+
+}
+
+.left,.right{
+    width: 50%;
+    height: 205px;
+    border: #E5E5E5 1px solid;
+    
+}
+
+.sam{
+    width: 100%;
+    height: 85%;
+
+}
+.box a{
+    font-size: 15px;
+    color: #1896E5;
+    text-decoration: none;
+    font-weight:600;
+    margin-left: 10px;
+
+}
+
+.box a:hover{
+    text-decoration: underline;
+}
+
+.hr{
+    width: 10%;
+    height: 1px;
+    margin: 0 auto;
+    margin-top: 35px;
+    border-top: 2px solid #ada8a8;
+
+}
+
+.other{
+    width: 30%;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    color: #313131;
+
+}
+
+.other p {
+    font-size: 14px;
+}
+
+
+.note{
+    font-size: 15px;
+    line-height: 30px;
+    margin-left: 40px;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.note2{
+    font-size: 15px;
+    margin-left: 40px;
+    font-weight: 300;
+}
+
+.last{
+    font-size: 13px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 70px;
+
+}
+.last a{
+    text-decoration: none;
+    color: #89CFEB;
+}
+
+.end{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+
+}
+.pa{
+    width: 82%;
+}
+.ap{
+    width: 18%;
+    margin-top: 26px;
+}
+.end p{
+    font-size: 13px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.end a{ 
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 13px;
+
+}
+
+.end a:hover{
+    color: #1087DB;
+}
+
