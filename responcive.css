@@ -54,7 +54,26 @@
   
   @media (min-width: 768px) and (max-width: 1024px) {
     
-    /* CSS */
+    
+    .brand{
+      width: 95%;
+      margin: 0 auto;
+    }
+    .brand ul li a{
+      font-size: 11px;
+      font-weight: 500;
+    }
+
+    .price{
+      width: 85%;
+    }
+    .price ul li a{
+      
+      font-size: 11px;
+
+    }
+
+
     
   }
   
